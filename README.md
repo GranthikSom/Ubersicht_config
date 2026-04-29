@@ -5,6 +5,7 @@ A personalized collection of handcrafted Übersicht widgets designed to turn the
 This configuration currently includes two custom desktop widgets:
 
 StatBar.widget — a compact live monitoring panel displaying system usage, network details, weather conditions, and localized date/time.
+
 DateTime.widget — a centered ambient clock widget providing an always-visible stylized weekday, full date, and current time display.
 
 Built using Übersicht JSX components, native macOS shell scripting, and lightweight API integrations.
